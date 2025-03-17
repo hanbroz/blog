@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2025-03-14 15:40:51 +0900
+title: "내가 Github를 사용하는 이유"
+date: 2025-03-17 15:40:51 +0900
 categories: jekyll update
 ---
 
